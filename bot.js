@@ -73,9 +73,9 @@ client.login(config.env.TOKEN || process.env.TOKEN);
 
 /**********************************************************
  * @INFO
- * Bot Coded by Zedro#2742 | https://discord.gg/8fYUFxMtAq
+ * Bot Coded by Zedro#2742 | https://discord.gg/milanio
  * @INFO
- * Work for Milanio Development | https://discord.gg/8fYUFxMtAq
+ * Work for Milanio Development | https://discord.gg/milanio
  * @INFO
  * Please Mention Us Milanio Development, When Using This Code!
  * @INFO
