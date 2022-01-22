@@ -1,7 +1,7 @@
 # Ticket_Supporter
 
 ## [**DISCORD SUPPORT SERVER INVITE**](https://dsc.gg/milanio.dev)
-> 💪 **Host on Repit:** [**Repl.it Fork**](https://discord.gg/milanio)
+> 💪 **Host on Repit:** [**Repl.it Fork**](https://replit.com/@Zedro2742/TicketSystem)
 
 ## Installation | How to use the Handler
 
