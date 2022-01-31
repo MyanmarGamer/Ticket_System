@@ -18,7 +18,8 @@
 ***
 
 ## [Discord Server 😎](https://discord.gg/bYsTkVBNDK)
-<a href="<https://discord.gg/bYsTkVBNDK><img src="https://discord.com/api/guilds/926803823731830845/widget.png?style=banner2"></a>
+<a href="https://dsc.gg/milanio.dev"><img src="https://discord.com/api/guilds/825260113509351454/widget.png?style=banner2"></a>
+
 
 ***
 
